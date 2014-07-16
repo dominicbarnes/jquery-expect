@@ -8,6 +8,6 @@
   "main": "jquery.expect.js",
   "scripts": [ "jquery.expect.js" ],
   "dependencies": {
-    "component/jquery": "*"
+    "components/jquery": "*"
   }
 }
